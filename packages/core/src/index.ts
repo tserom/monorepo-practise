@@ -7,3 +7,7 @@ console.log(search);
 export default {
   getQuerySearch,
 };
+
+export {
+  getQuerySearch
+}
